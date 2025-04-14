@@ -50,7 +50,7 @@
       ]
     }
   ],
-  "work": [
+  "experiences": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -59,18 +59,6 @@
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "awards": [
@@ -84,10 +72,9 @@
   ],
   "certificates": [
     {
-      "name": "Secondary Mathematics Teacher",
+      "name": "Teacher’s Certificate for Secondary Regular Teacher of Mathematics ",
       "date": "2021-02",
-      "issuer": "Korea University",
-      "icon": "fa-solid fa-hashtag"
+      "issuer": "Korea University"
     }
   ],
   "publications": [
