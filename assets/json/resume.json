@@ -49,13 +49,24 @@
     {
       "institution": "Seoul National University",
       "location": "Seoul, South Korea",
-      "url": "https://www.uzh.ch/",
-      "area": "Mathematics science",
+      "url": "https://www.math.snu.ac.kr/",
+      "area": "Mathematics Science",
       "studyType": "Ph.D.",
       "startDate": "2021-03",
       "endDate": "Present",
       "score": "10",
       "courses": ["Expected Graduation: 2026.02"]
+    },
+    {
+      "institution": "Korea University",
+      "location": "Seoul, South Korea",
+      "url": "https://mathedu.korea.ac.kr/",
+      "area": "Mathematics Education",
+      "studyType": "Ph.D.",
+      "startDate": "2015-03",
+      "endDate": "2021.02",
+      "score": "10",
+      "courses": ["Graduated 1st in Class", "(Mandatory) Military Service: May 2017 - Jan. 2019"]
     }
   ],
   "awards": [
