@@ -21,15 +21,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-first-paper-encryption-friendly-llm-architecture-is-accepted-at-iclr-25",
+            },},{id: "news-our-first-paper-encryption-friendly-llm-architecture-is-accepted-at-iclr-25",
           title: 'Our first paper ‘Encryption-Friendly LLM Architecture’ is accepted at ICLR’25.',
           description: "",
           section: "News",},{id: "projects-project-1",
