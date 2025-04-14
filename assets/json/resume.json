@@ -22,6 +22,26 @@
       }
     ]
   },
+  "experiences": [
+    {
+      "name": "SNU-KAIST ML Theory Workshop",
+      "location": "Gangneung, South Korea",
+      "position": "Workshop Coordinator",
+      "url": "",
+      "Date": "2024-08",
+      "summary": "",
+      "highlights": ["Assisted in planning the schedule, selecting the venue, and managing workshop programs."]
+    },
+    {
+      "name": "Danggok high school",
+      "location": "Seoul, South Korea",
+      "position": "Teaching Practicum",
+      "url": "",
+      "startDate": "2020-04",
+      "endDate": "2020-05",
+      "summary": "",
+      "highlights": ["Danggok high school."]
+    },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
