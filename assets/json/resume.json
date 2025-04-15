@@ -63,11 +63,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Silver Prize",
+      "date": "2018-12",
+      "awarder": "University Students Contest of Mathemaitcs",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Excellence Scholarship",
+      "date": "2015.08",
+      "awarder": "Korea University",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
