@@ -67,6 +67,22 @@
       ]
     }
   ],
+  "publications": [
+    {
+      "name": "Homomorphically Encrypted Language Models Stabilized with TSP-Sorted Tokens",
+      "publisher": "In Progress",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Encryption-Friendly LLM Architecture",
+      "publisher": "International Conference on Learning Representations",
+      "releaseDate": "2024-10",
+      "url": "https://openreview.net/forum?id=pbre0HKsfE",
+      "summary": ""
+    }
+  ],
   "experiences": [
     {
       "name": "SNU-KAIST ML Theory Workshop",
@@ -95,6 +111,32 @@
       "highlights": ""
     }
   ],
+  "presentations": [
+    {
+      "name": "Poster Presentation",
+      "position": "ICLR 2025",
+      "url": "",
+      "date": "2025-04",
+      "summary": "",
+      "highlights": ["Encryption-Friendly LLM Architecture"]
+    },
+    {
+      "name": "Poster Presentation",
+      "position": "SNU-KAIST ML Theory Workshop",
+      "url": "",
+      "date": "2024-08",
+      "summary": "",
+      "highlights": ""
+    },
+    {
+      "name": "Poster Presentation",
+      "position": "SNU-Samsung Electronics Collaboration Symposium",
+      "url": "",
+      "date": "2024-08",
+      "summary": "",
+      "highlights": ""
+    }
+  ],
   "awards": [
     {
       "title": "Silver Prize",
@@ -116,22 +158,6 @@
       "name": "Teacher’s Certificate for Secondary Regular Teacher of Mathematics ",
       "date": "2021-02",
       "institution": "Korea University"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Homomorphically Encrypted Language Models Stabilized with TSP-Sorted Tokens",
-      "publisher": "In Progress",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Encryption-Friendly LLM Architecture",
-      "publisher": "International Conference on Learning Representations",
-      "releaseDate": "2024-10",
-      "url": "https://openreview.net/forum?id=pbre0HKsfE",
-      "summary": ""
     }
   ],
   "teaching Assistant": [
