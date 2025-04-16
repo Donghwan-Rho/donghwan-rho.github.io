@@ -41,3 +41,5 @@ I am interested in:
 <a href="https://www.linkedin.com/in/donghwanrho/" target="_blank">
   <i class="fab fa-linkedin" style="margin-right: 6px;"></i>LinkedIn
 </a>
+
+Feel free to contact me anytime to discuss research!
