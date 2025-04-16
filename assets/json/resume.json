@@ -134,6 +134,22 @@
       "summary": ""
     }
   ],
+  "teaching Assistant": [
+    {
+      "name": "Homomorphically Encrypted Language Models Stabilized with TSP-Sorted Tokens",
+      "publisher": "In Progress",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Encryption-Friendly LLM Architecture",
+      "publisher": "International Conference on Learning Representations",
+      "releaseDate": "2024-10",
+      "url": "https://openreview.net/forum?id=pbre0HKsfE",
+      "summary": ""
+    }
+  ],
   "skills": [
     {
       "name": "Python",
