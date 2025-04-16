@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: "donghwan_rho[at]snu.ac.kr"
 
 profile:
   align: right
   image: profile_2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: "donghwan_rho[at]snu.ac.kr"
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
