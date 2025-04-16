@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https:/donghwan-rho.github.io/sitemap.xml
+Sitemap: https://sehyunkwon.github.io/sitemap.xml
