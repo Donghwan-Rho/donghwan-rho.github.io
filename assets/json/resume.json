@@ -67,7 +67,7 @@
       ]
     }
   ],
-  "work": [
+  "experiences": [
     {
       "name": "SNU-KAIST ML Theory Workshop",
       "position": "Workshop Coordinator",
@@ -134,7 +134,7 @@
       "summary": ""
     }
   ],
-  "teaching": [
+  "teaching Assistant": [
     {
       "name": "Homomorphically Encrypted Language Models Stabilized with TSP-Sorted Tokens",
       "publisher": "In Progress",
