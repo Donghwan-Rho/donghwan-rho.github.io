@@ -32,6 +32,13 @@
       ]
     },
     {
+      "name": "Reasoning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Reasoning of LLMs"
+      ]
+    },
+    {
       "name": "Interpretability",
       "icon": "fa-solid fa-tag",
       "keywords": [
