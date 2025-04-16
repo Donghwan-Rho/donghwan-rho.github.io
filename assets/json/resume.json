@@ -126,7 +126,7 @@
       "url": "",
       "date": "2024-08",
       "summary": "",
-      "highlights": ""
+      "highlights": ["Encryption-Friendly LLM Architecture"]
     },
     {
       "name": "Poster Presentation",
@@ -134,7 +134,36 @@
       "url": "",
       "date": "2024-08",
       "summary": "",
+      "highlights": ["Encryption-Friendly LLM Architecture"]
+    }
+  ],
+  "teaching Assistant": [
+    {
+      "name": "Lead Teaching Assistant",
+      "position": "Peer Tutoring in Basic Sciences",
+      "url": "",
+      "startDate": "24-03",
+      "endDate": "",
+      "summary": "",
       "highlights": ""
+    },
+    {
+      "name": "",
+      "position": "Basic Calculus",
+      "url": "",
+      "startDate": "21-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Matched tutors and tutees for the Basic Calculus peer tutoring program.", "Managed program logistics to ensure efficient operation."]
+    },
+    {
+      "name": "",
+      "position": "Basic Calculus",
+      "url": "",
+      "startDate": "21-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Matched tutors and tutees for the Basic Calculus peer tutoring program.", "Managed program logistics to ensure efficient operation."]
     }
   ],
   "awards": [
@@ -158,22 +187,6 @@
       "name": "Teacher’s Certificate for Secondary Regular Teacher of Mathematics ",
       "date": "2021-02",
       "institution": "Korea University"
-    }
-  ],
-  "teaching Assistant": [
-    {
-      "name": "Homomorphically Encrypted Language Models Stabilized with TSP-Sorted Tokens",
-      "publisher": "In Progress",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Encryption-Friendly LLM Architecture",
-      "publisher": "International Conference on Learning Representations",
-      "releaseDate": "2024-10",
-      "url": "https://openreview.net/forum?id=pbre0HKsfE",
-      "summary": ""
     }
   ],
   "skills": [
