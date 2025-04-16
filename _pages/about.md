@@ -28,7 +28,7 @@ Hello. I am a Ph.D student in [Department of Mathematical Sciences, Seoul Nation
 I am interested in:
 <ul class="interest-list">
   <li>Efficient implementations of language models under Homomorphic Encryption (especially CKKS)</li>
-  <li>Mathematical Reasoning of LLMs</li>
+  <li>Mathematical reasoning of LLMs</li>
   <li>Interpretability of language models</li>
 </ul>
 
