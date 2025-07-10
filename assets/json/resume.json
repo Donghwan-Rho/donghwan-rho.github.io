@@ -178,7 +178,7 @@
       "url": "",
       "date": "Spring 2025",
       "summary": "",
-      "highlights": ["English Course"]
+      "highlights": ["English Course", "Selected as an outstanding TA"]
     },
     {
       "name": "",
@@ -215,6 +215,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Outstanding TA",
+      "date": "2025-07",
+      "awarder": "Seoul National University",
+      "url": "https://www.math.snu.ac.kr/bbs/board.php?bo_table=Math_Grad_Board&sca=%EC%9A%B0%EC%88%98TA",
+      "summary": ""
+    },
     {
       "title": "Silver Prize",
       "date": "2018-12",
