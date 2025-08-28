@@ -25,7 +25,7 @@ ninja.data = [{
           title: 'Our first paper ‘Encryption-Friendly LLM Architecture’ is accepted at ICLR’25.',
           description: "",
           section: "News",},{id: "news-i-have-been-selected-as-an-outstanding-ta-for-the-introduction-to-computer-programming-and-artificial-intelligence-for-scientists-course-this-semester",
-          title: 'I have been selected as an ‘outstanding TA’ for the Introduction to Computer...',
+          title: 'I have been selected as an outstanding TA for the Introduction to Computer...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
