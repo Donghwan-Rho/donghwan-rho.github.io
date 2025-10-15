@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**(Scheduled)** I will give a talk on the paper [Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models](https://arxiv.org/abs/2510.12343) at the [Korean Mathematical Society Annual Meeting](https://www.kms.or.kr/conference/meeting/?period=90).
+**(Scheduled)** I will give a talk at the [Korean Mathematical Society Annual Meeting](https://www.kms.or.kr/conference/meet/program/session.html?period=90&session_detail=743).
