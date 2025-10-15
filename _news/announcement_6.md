@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-15
+date: 2025-10-23
 inline: true
 related_posts: false
 ---
 
-Our paper [Studying the Korean Word-Chain Game with RLVR:Mitigating Reward Conflicts via Curriculum Learning](https://www.arxiv.org/abs/2510.03394) is now available on arXiv. This is a work in progress.
+**(Scheduled)** I will give a talk on the paper [Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models](https://arxiv.org/abs/2510.12343) at the [Korean Mathematical Society Annual Meeting](https://www.kms.or.kr/conference/meeting/?period=90).
