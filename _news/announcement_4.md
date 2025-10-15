@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Studying the Korean Word-Chain Game with RLVR:Mitigating Reward Conflicts via Curriculum Learning](https://www.arxiv.org/abs/2510.03394) is now available on arXiv.
+Our paper [Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models](https://arxiv.org/abs/2510.12343) is now available on arXiv.
