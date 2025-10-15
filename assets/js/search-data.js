@@ -39,7 +39,7 @@ ninja.data = [{
           section: "News",},{id: "news-scheduled-i-will-give-a-talk-on-the-paper-traveling-salesman-based-token-ordering-improves-stability-in-homomorphically-encrypted-language-models-at-the-korean-mathematical-society-annual-meeting",
           title: '(Scheduled) I will give a talk on the paper Traveling Salesman-Based Token Ordering...',
           description: "",
-          section: "News",},{id: "news-scheduled-i-will-give-a-talk-on-implementing-efficient-language-models-under-homomorphic-encryption-at-the-2025-seoul-national-university-research-institute-of-mathematics-symposium",
+          section: "News",},{id: "news-scheduled-i-will-give-a-talk-on-implementing-efficient-language-models-under-homomorphic-encryption-at-the-seoul-national-university-research-institute-of-mathematics-symposium",
           title: '(Scheduled) I will give a talk on Implementing Efficient Language Models under Homomorphic...',
           description: "",
           section: "News",},{id: "projects-project-1",
