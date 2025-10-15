@@ -76,10 +76,17 @@
   ],
   "publications": [
     {
-      "name": "Homomorphically Encrypted Language Models Stabilized with TSP-Sorted Tokens",
+      "name": "Studying the Korean Word-Chain Game with RLVR: Mitigating Reward Conflicts via Curriculum Learning",
       "publisher": "In Progress",
       "releaseDate": "2025",
-      "url": "",
+      "url": "https://www.arxiv.org/abs/2510.03394",
+      "summary": ""
+    },
+    {
+      "name": "Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models",
+      "publisher": "In Progress",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2510.12343",
       "summary": ""
     },
     {
