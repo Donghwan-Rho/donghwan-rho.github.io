@@ -33,7 +33,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-traveling-salesman-based-token-ordering-improves-stability-in-homomorphically-encrypted-language-models-is-now-available-on-arxiv",
           title: 'Our paper Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models...',
           description: "",
-          section: "News",},{id: "news-our-paper-studying-the-korean-word-chain-game-with-rlvr-mitigating-reward-conflicts-via-curriculum-learning-is-now-available-on-arxiv",
+          section: "News",},{id: "news-our-paper-studying-the-korean-word-chain-game-with-rlvr-mitigating-reward-conflicts-via-curriculum-learning-is-now-available-on-arxiv-this-is-a-work-in-progress",
           title: 'Our paper Studying the Korean Word-Chain Game with RLVR:Mitigating Reward Conflicts via Curriculum...',
           description: "",
           section: "News",},{id: "projects-project-1",
