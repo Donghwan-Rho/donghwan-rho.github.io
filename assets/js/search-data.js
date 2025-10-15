@@ -22,7 +22,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-our-first-paper-encryption-friendly-llm-architecture-is-accepted-at-iclr-25",
-          title: 'Our first paper ‘Encryption-Friendly LLM Architecture’ is accepted at ICLR’25.',
+          title: 'Our first paper Encryption-Friendly LLM Architecture is accepted at ICLR’25.',
           description: "",
           section: "News",},{id: "news-i-passed-the-ph-d-defense",
           title: 'I passed the Ph.D. defense.',
