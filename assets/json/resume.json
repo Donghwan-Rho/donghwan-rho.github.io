@@ -127,6 +127,14 @@
   ],
   "presentations": [
     {
+      "name": "Contributed Talk",
+      "position": "2025 Korean Mathematical Society Annual Meeting",
+      "url": "https://www.kms.or.kr/conference/meet/program/session.html?period=90&session_detail=743",
+      "date": "2025-10",
+      "summary": "",
+      "highlights": ["Homomorphically encrypted language models stabilized with TSP-sorted tokens"]
+    },
+    {
       "name": "Poster Presentation",
       "position": "ICLR 2025",
       "url": "",
