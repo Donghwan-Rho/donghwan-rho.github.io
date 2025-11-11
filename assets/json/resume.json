@@ -127,6 +127,14 @@
   ],
   "presentations": [
     {
+      "name": "Talk",
+      "position": "2025 Symposium of the Research Institute of Mathematics, Seoul National University",
+      "url": "https://www.math.snu.ac.kr/bbs/board.php?bo_table=Math_Event&wr_id=81&year=2025&month=11&day=12",
+      "date": "2025-11",
+      "summary": "",
+      "highlights": ["Implementing Efficient Language Models under Homomorphic Encryption"]
+    },
+    {
       "name": "Contributed Talk",
       "position": "2025 Korean Mathematical Society Annual Meeting",
       "url": "https://www.kms.or.kr/conference/meet/program/session.html?period=90&session_detail=743",
