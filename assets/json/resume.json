@@ -132,7 +132,9 @@
       "url": "https://www.math.snu.ac.kr/bbs/board.php?bo_table=Math_Event&wr_id=81&year=2025&month=11&day=12",
       "date": "2025-11",
       "summary": "",
-      "highlights": ["Implementing Efficient Language Models under Homomorphic Encryption"]
+      "highlights": ["Implementing Efficient Language Models under Homomorphic Encryption", 
+                    "<a href='https://abstractnonsense.xyz/micro-blog/2025-11-11-implementing-efficient-language-models-under-homomorphic-encryption/'>Blog post</a> (Thanks to <a href='https://www.linkedin.com/in/y-frenkel/?originalSubdomain=au'>Yossi Frenkel</a>)",
+                    "<a href='/assets/pdf/RMS_HE+LLM.pdf'>Slides</a>"]
     },
     {
       "name": "Contributed Talk",
