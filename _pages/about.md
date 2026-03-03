@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 10 # leave blank to include all the blog posts
 ---
-Hello. I am a Ph.D. candidate in [Department of Mathematical Sciences, Seoul National University](https://www.math.snu.ac.kr/) under the supervision of [Ernest K. Ryu](https://ernestryu.com/).
+Hello. I am currently a Staff Engineer at [Samsung Electronics](https://www.samsung.com/sec/about-us/company-info/). I received my Ph.D. in [Department of Mathematical Sciences, Seoul National University](https://www.math.snu.ac.kr/) under the supervision of [Ernest K. Ryu](https://ernestryu.com/).
 
 I am interested in:
 <ul class="interest-list">

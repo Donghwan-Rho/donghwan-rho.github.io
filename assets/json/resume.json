@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Donghwan Rho",
-    "label": "Ph.D. Candidate",
+    "label": "Staff Engineer at Samsung Electronics",
     "image": "",
     "email": "donghwan_rho@snu.ac.kr",
     "phone": "",
@@ -54,9 +54,9 @@
       "area": "Mathematics Science",
       "studyType": "Ph.D.",
       "startDate": "21-03",
-      "endDate": "Present",
+      "endDate": "26-02",
       "score": "10",
-      "courses": ["Expected Graduation: 2026.02"]
+      "courses": ["Advisor: <a href='https://ernestryu.com/'>Ernest K. Ryu</a>"]
     },
     {
       "institution": "Korea University",
@@ -99,11 +99,20 @@
   ],
   "experiences": [
     {
+      "name": "Samsung Electronics",
+      "position": "Staff Engineer",
+      "url": "https://www.samsung.com/sec/about-us/company-info/",
+      "startDate": "26-03",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": "Homomorphic Encryption Optimization Team"
+    },
+    {
       "name": "CryptoLab",
       "position": "Research Internship",
       "url": "https://www.cryptolab.co.kr/en/home/",
       "startDate": "25-12",
-      "endDate": "",
+      "endDate": "26-02",
       "summary": "",
       "highlights": "Homomorphic Encryption Optimization Team"
     },
@@ -184,7 +193,7 @@
       "position": "Peer Tutoring in Basic Sciences",
       "url": "",
       "startDate": "24-03",
-      "endDate": "",
+      "endDate": "26-02",
       "summary": "",
       "highlights": ""
     },
@@ -193,7 +202,7 @@
       "position": "Basic Calculus",
       "url": "",
       "startDate": "21-09",
-      "endDate": "",
+      "endDate": "26-02",
       "summary": "",
       "highlights": ["Matched tutors and tutees for the Basic Calculus peer tutoring program.", "Managed program logistics to ensure efficient operation."]
     },
@@ -202,9 +211,9 @@
       "position": "SNU Pre-College Program",
       "url": "",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2026",
       "summary": "",
-      "highlights": ["Managed logistics of the mathematics program for freshman undergraduate.", "Gave lectures.", "Winter 2023, Winter 2024"]
+      "highlights": ["Managed logistics of the mathematics program for freshman undergraduate.", "Gave lectures.", "Winter 2023, Winter 2024, Winter 2025"]
     },
     {
       "name": "Instructor",
