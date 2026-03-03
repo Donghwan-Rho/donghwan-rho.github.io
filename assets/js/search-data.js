@@ -34,7 +34,7 @@ ninja.data = [{
           title: 'Our paper Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models...',
           description: "",
           section: "News",},{id: "news-our-paper-studying-the-korean-word-chain-game-with-rlvr-mitigating-reward-conflicts-via-curriculum-learning-is-now-available-on-arxiv-this-is-a-work-in-progress",
-          title: 'Our paper Studying the Korean Word-Chain Game with RLVR:Mitigating Reward Conflicts via Curriculum...',
+          title: 'Our paper Studying the Korean Word-Chain Game with RLVR: Mitigating Reward Conflicts via...',
           description: "",
           section: "News",},{id: "news-i-gave-a-talk-at-the-korean-mathematical-society-annual-meeting",
           title: 'I gave a talk at the Korean Mathematical Society Annual Meeting.',
