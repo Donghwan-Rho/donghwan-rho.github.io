@@ -3,6 +3,20 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{rho2026phdthesis,
+  abbr={Ph.D. Thesis},
+  bibtex_show={true},
+  author={Donghwan Rho},
+  title={Exploring Efficient Implementation of Language Models Under Homomorphic Encryption},
+  abstract={As the Large Language Models (LLMs) such as ChatGPT work successfully and are offered as services, language model has been at the center of the latest developments in AI. LLMs are trained on an internet-scale data, demonstrating outstanding knowledge and fluent conversational capacity. Besides, LLMs can provide customized answers to each person’s questions. However, personal data often have to be sent to the LLM provider’s server to receive these personalized answers. Therefore, people who do not want to share their personal information, companies with proprietary technology, and institutions such as banks holding sensitive data are hesitant to use LLMs due to privacy concerns. Because of this privacy issue, privacy-preserving machine learning (PPML) has attracted attention along with the development of LLMs. Homomorphic Encryption (HE) offers a promising solution to PPML. It supports operations in an encrypted data. If we use it, data are sent to a server in encrypted form from the beginning. Therefore, even if the data is leaked from the server, private information is protected. Among various HE schemes, we use CKKS (Cheon-Kim-Kim-Song), which supports real number operations, so it is appropriate for implementing machine learning models. CKKS is based on RLWE (Ring Learning with Errors), and since RLWE is equivalent to an NP-hard problem, the security of CKKS is guaranteed. Even if CKKS has many strengths, it is prohibitively hard to use it practically because of the computational overhead. LLMs are based on the Transformer, which involves many non-polynomial operations such as Softmax; however CKKS only supports addition and multiplication. In this thesis, we study the practical implementation of LLMs under HE by addressing these problems, building on the author’s earlier work [99, 100]. In Chapter 3, we replace Softmax with a Gaussian kernel and reduce matrix multiplications between ciphertexts to reduce computational overhead. In Chapter 4, we propose a novel method for stable text generation when probabilistic sampling is performed under CKKS, which has not yet been developed.},
+  year={2026},
+  journal={Seoul National University},
+  url={https://dcollection.snu.ac.kr/public_resource/pdf/000000196771_20260823090513.pdf},
+  selected={true},
+  html={https://dcollection.snu.ac.kr/public_resource/pdf/000000196771_20260823090513.pdf},
+  pdf={phd_thesis_donghwanrho.pdf}
+}
+
 @article{rho2025studying,
   abbr={arXiv},
   bibtex_show={true},
