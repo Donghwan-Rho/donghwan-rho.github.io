@@ -6,7 +6,7 @@ subtitle: "donghwan_rho[at]snu.ac.kr"
 
 profile:
   align: right
-  image: profile_2.jpg
+  image: profile_3.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
