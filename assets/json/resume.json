@@ -76,6 +76,12 @@
   ],
   "publications": [
     {
+      "name": "On the Low Rank Theory of Data Shapley: A Kernel Perspective",
+      "publisher": "Submitted",
+      "releaseDate": "2026-09",
+      "summary": ""
+    },
+    {
       "name": "Studying the Korean Word-Chain Game with RLVR: Mitigating Reward Conflicts via Curriculum Learning",
       "publisher": "In progress",
       "releaseDate": "2025-10",
