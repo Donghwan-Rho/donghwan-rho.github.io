@@ -39,10 +39,10 @@
       ]
     },
     {
-      "name": "Interpretability",
+      "name": "Data Valuation",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Interpretability of LLMs"
+        "Data valuation via Shapley value"
       ]
     }
   ],
@@ -77,7 +77,7 @@
   "publications": [
     {
       "name": "On the Low Rank Theory of Data Shapley: A Kernel Perspective",
-      "publisher": "Submitted",
+      "publisher": "NeurIPS 2026 ATTRIB Workshop",
       "releaseDate": "2026-09",
       "summary": ""
     },
